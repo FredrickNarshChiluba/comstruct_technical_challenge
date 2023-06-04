@@ -6,7 +6,7 @@
 
 2. **Virtual Environment**
 
-# create and activate a virtual environment
+### create and activate a virtual environment
 
 - Mac/Linux user can run:
 
