@@ -1,0 +1,33 @@
+------------------------------
+Amble Construction Supplies
+123 Main St, Anytown, USA
+Phone: (123) 456-7890
+------------------------------
+Delivery Note No: DN-31245
+
+Customer:
+Builder's Paradise Inc.
+789 Commerce Street, Anytown, USA
+Contact: John Doe
+------------------------------
+Delivery Details:
+
+Delivery Date: May 25, 2023
+Delivery Address: Site #4, West Expansion, Anytown, USA
+Vehicle No: AC4567
+------------------------------
+Line Items:
+
+Line Items:
+
+Item No: 001, Description: Cement, Unit: 50kg bag, Quantity: 100
+Item No: 002, Description: Rebar, Unit: 10ft length, 1/2 inch, Quantity: 50
+Item No: 003, Description: Concrete Blocks, Unit: 8x8x16 inch, Quantity: 200
+Item No: 004, Description: Plywood Sheets, Unit: 4x8ft, 1/2 inch, Quantity: 30
+Item No: 005, Description: Insulation Rolls, Unit: R-13, Quantity: 25
+Item No: 006, Description: Nails, Unit: 1 inch, box of 500, Quantity: 20
+------------------------------
+Note: Please check all items upon delivery. Report any discrepancies within 24 hours.
+Thank you for your business!
+------------------------------
+Signature of Driver: ______________
